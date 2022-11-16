@@ -1,0 +1,11 @@
+1. buat branch baru
+git branch <branch-name>
+
+2. mengubah branch
+git branch -m <old-branch> <new-branch>
+
+3. menghapus branch
+git branch -d <branch-name>
+
+4. berpindah branch
+git checkout <branch-name>
