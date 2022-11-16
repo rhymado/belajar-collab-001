@@ -9,3 +9,9 @@ git branch -d <branch-name>
 
 4. berpindah branch
 git checkout <branch-name>
+
+5. clone git
+git clone <url>
+
+6. push ke branch
+git push <remote-name> <branch-name>
