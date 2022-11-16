@@ -1,0 +1,17 @@
+1. buat branch baru
+git branch <branch-name>
+
+2. mengubah branch
+git branch -m <old-branch> <new-branch>
+
+3. menghapus branch
+git branch -d <branch-name>
+
+4. berpindah branch
+git checkout <branch-name>
+
+5. clone git
+git clone <url>
+
+6. push ke branch
+git push <remote-name> <branch-name>
